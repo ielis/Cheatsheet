@@ -1,7 +1,9 @@
 # Google Cloud Platform
 
 
-## Cloud Shell
+## Setup
+
+First time setup.
 
 ### Add account
 
